@@ -1,1 +1,3 @@
 Local file was created on local computer
+
+New text for local file.txt
